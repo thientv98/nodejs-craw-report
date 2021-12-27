@@ -7,6 +7,8 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var exportRouter = require('./routes/export');
+var traTenCongTyRouter = require('./routes/tratencongty');
+var doanhNghiepMoi = require('./routes/doanhnghiepmoi');
 
 var app = express();
 
@@ -23,8 +25,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/export', exportRouter);
+app.use('/tratencongty', traTenCongTyRouter);
+app.use('/doanhnghiepmoi', doanhNghiepMoi);
 
-console.log('Listening on http://localhost:3000')
+console.log('Listening on http://localhost:3333')
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
