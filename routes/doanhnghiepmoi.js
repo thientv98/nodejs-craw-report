@@ -10,8 +10,8 @@ const fs = require('fs');
 router.get('/', async (req, res, next) => {
 
     const baseUrl = 'https://doanhnghiepmoi.vn/TP-Ho-Chi-Minh/trang-'
-    let beginPage = 4100
-    let endPage = 5000
+    let beginPage = 6501
+    let endPage = 7000
     let arrPage = []
     let destinationPath = 'assets/doanhnghiepmoi/'
 

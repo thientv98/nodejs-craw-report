@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var exportRouter = require('./routes/export');
 var traTenCongTyRouter = require('./routes/tratencongty');
+var traTenCongTy2Router = require('./routes/tratencongty2');
 var doanhNghiepMoi = require('./routes/doanhnghiepmoi');
 
 var app = express();
@@ -26,6 +27,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/export', exportRouter);
 app.use('/tratencongty', traTenCongTyRouter);
+app.use('/tratencongty2', traTenCongTy2Router);
 app.use('/doanhnghiepmoi', doanhNghiepMoi);
 
 console.log('Listening on http://localhost:3333')

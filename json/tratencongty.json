@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Quận 1",
+        "key": "quan1",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-1/",
+        "from": 1,
+        "to": 805
+    },
+    {
+        "name": "Quận 2",
+        "key": "quan2",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-2/",
+        "from": 1,
+        "to": 263
+    },
+    {
+        "name": "Quận 3",
+        "key": "quan3",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-3/",
+        "from": 1,
+        "to": 378
+    },
+    {
+        "name": "Quận 4",
+        "key": "quan4",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-4/",
+        "from": 1,
+        "to": 118
+    },
+    {
+        "name": "Quận 5",
+        "key": "quan5",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-5/",
+        "from": 1,
+        "to": 131
+    },
+    {
+        "name": "Quận 6",
+        "key": "quan6",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-6/",
+        "from": 1,
+        "to": 115
+    },
+    {
+        "name": "Quận 7",
+        "key": "quan7",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-7/",
+        "from": 1,
+        "to": 386
+    },
+    {
+        "name": "Quận 8",
+        "key": "quan8",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-8/",
+        "from": 1,
+        "to": 189
+    },
+    {
+        "name": "Quận 9",
+        "key": "quan9",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-9/",
+        "from": 1,
+        "to": 256
+    },
+    {
+        "name": "Quận 10",
+        "key": "quan10",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-10/",
+        "from": 1,
+        "to": 225
+    },
+    {
+        "name": "Quận 11",
+        "key": "quan11",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-11/",
+        "from": 1,
+        "to": 133
+    },
+    {
+        "name": "Quận 12",
+        "key": "quan12",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-12/",
+        "from": 1,
+        "to": 462
+    },
+    {
+        "name": "Quận Gò Vấp",
+        "key": "quan-go-vap",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-go-vap/",
+        "from": 1,
+        "to": 520
+    },
+    {
+        "name": "Quận Tân Bình",
+        "key": "quan-tan-binh",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-tan-binh/",
+        "from": 1,
+        "to": 586
+    },
+    {
+        "name": "Quận Bình Thạnh",
+        "key": "quan-binh-thanh",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-binh-thanh/",
+        "from": 1,
+        "to": 565
+    },
+    {
+        "name": "Quận Phú Nhuận",
+        "key": "quan-phu-nhuan",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-phu-nhuan/",
+        "from": 1,
+        "to": 263
+    },
+    {
+        "name": "Quận Thủ Đức",
+        "key": "quan-thu-duc",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-thu-duc/",
+        "from": 1,
+        "to": 357
+    },
+    {
+        "name": "Quận Bình Tân",
+        "key": "quan-binh-tan",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-binh-tan/",
+        "from": 1,
+        "to": 477
+    }
+]

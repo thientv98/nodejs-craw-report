@@ -3,5 +3,7 @@ node_modules
 export
 export1
 assets/phones
-assets/tratencongty
+assets/tratencongty*
 assets/doanhnghiepmoi
+assets/trangvang*
+*.traineddata
