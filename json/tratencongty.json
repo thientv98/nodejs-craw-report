@@ -124,5 +124,40 @@
         "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/quan-binh-tan/",
         "from": 1,
         "to": 477
+    },
+    {
+        "name": "Huyện Củ Chi",
+        "key": "huyen-cu-chi",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/huyen-cu-chi/",
+        "from": 1,
+        "to": 96
+    },
+    {
+        "name": "Huyện Hóc Môn",
+        "key": "huyen-hoc-mon",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/huyen-hoc-mon/",
+        "from": 1,
+        "to": 251
+    },
+    {
+        "name": "Huyện Bình Chánh",
+        "key": "huyen-binh-chanh",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/huyen-binh-chanh/",
+        "from": 1,
+        "to": 286
+    },
+    {
+        "name": "Huyện Nhà Bè",
+        "key": "huyen-nha-be",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/huyen-nha-be/",
+        "from": 1,
+        "to": 102
+    },
+    {
+        "name": "Huyện Cần Giờ",
+        "key": "huyen-can-gio",
+        "url": "https://www.tratencongty.com/thanh-pho-ho-chi-minh/huyen-can-gio/",
+        "from": 1,
+        "to": 12
     }
 ]

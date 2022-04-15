@@ -13,6 +13,7 @@ const { createWorker } = require('tesseract.js');
 const worker = createWorker();
 
 router.get('/', async (req, res, next) => {
+    res.setTimeout(0);
     const districts = require('../json/tratencongty')
 
     let destinationPath = 'assets/tratencongty2/'
